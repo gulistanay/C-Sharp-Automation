@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Kırtasiye_Otomasyon", "Kırtasiye_Otomasyon\Kırtasiye_Otomasyon.ssmssqlproj", "{68D964DD-A364-4830-82DD-6BED2267D17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D964DD-A364-4830-82DD-6BED2267D17A}.Default|Default.ActiveCfg = Default
+		{5EB1EFE5-FF02-45C8-866B-F78577D46B1A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615E5771-A8ED-4370-81CB-B1C68178C26B}
+	EndGlobalSection
+EndGlobal

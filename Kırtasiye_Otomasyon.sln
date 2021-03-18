@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kirtasiye_Otomasyon", "Kirtasiye_Otomasyon.csproj", "{8DD4281F-0132-44D6-A12A-66C115D44235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD4281F-0132-44D6-A12A-66C115D44235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD4281F-0132-44D6-A12A-66C115D44235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD4281F-0132-44D6-A12A-66C115D44235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD4281F-0132-44D6-A12A-66C115D44235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C742565-EB96-459F-99D7-E7BF58B006A8}
+	EndGlobalSection
+EndGlobal
